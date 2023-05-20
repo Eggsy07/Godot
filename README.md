@@ -10,8 +10,7 @@ Este video-game foi criado usando o Godot Engine e a sua linguagem oficial que �
 	2- ter conhecimento basicos de programação
 	3- Conhecer a linguagem de programação GDScript
 	4-  saber usar a plataforma Godot.
-	
-Instruções básicas:
+	Instruções básicas:
 	1- Click no botão UP ou W para pular(jump);
 		-precione continuamente a o botão UP ou W e o seu jogador dará o pulo mais alto possível.
 	2-Precione as teclas (A ou D)/(SETA LEFT ou SETA RIGHT) para mover o jogador para trás e para frente.
